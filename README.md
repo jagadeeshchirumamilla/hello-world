@@ -4,19 +4,22 @@ This is just a practice repository to learn githu
 Hi I am jagadeesh, Editing this readme file to merge with master
 
 git clone <.git path>
+
 git pull 
+
 git add .
+
 git commit -m 'message'
+
 git push
 
+------------------------------
 git branch <branch name>
+
 git checkout <branch>
+
 git push --set-upstream origin <branch name>
 
---------------sourceTree------------
-
-/home/pi/plant-cloud/images
-WKQshuW7X8NWFPWAg_y8
 --------------------
 To create a branch locally
 You can create a branch locally as long as you have a cloned version of the repo.
@@ -49,6 +52,8 @@ View the Source page of your repository in Bitbucket. You should see both the ma
 
 
 -------------------------------------------------------------------------------------------------------------------
+Create .gitignore file using gitbash => touch .gitignore
+----------------------------
 new master
 cd existing_folder
 git init
@@ -56,3 +61,4 @@ git remote add origin https://gitlab.com/jagadeeshchirumamilla999/pervasive_assi
 git add .
 git commit -m "Initial commit"
 git push -u origin master
+
